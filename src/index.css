@@ -1,0 +1,55 @@
+html {
+  background-color: #ffffff;
+}
+
+body {
+  background-color: #fcfaea;
+  margin: 0;
+}
+
+.navBar{
+  background-color: black;
+}
+
+.navTab{
+  font-size: large;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+#banner{
+  width: 100%;
+}
+
+h4 {
+  color: brown;
+}
+
+.block {
+  background-color: #e0e0e0;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.cartBox{
+  border-style: outset;
+  padding-left: 30px;
+  background-color: white;
+  height: fit-content;
+}
+
+.cartItem{
+  border-style: ridge;
+  margin: 8px 20px 8px 8px;
+  padding: 20px;
+  background-color: white;
+  height: fit-content;
+}
+
+footer {
+  background-color: #333333;
+  color: white;
+  padding: 15px;
+
+}

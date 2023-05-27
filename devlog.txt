@@ -1,0 +1,15 @@
+Version 1
+Set-up base for multiple pages routing
+Do up rough CSS layout for order page
+
+V2
+Set-up Order Page Backend so that item can be added to cart from Body and Cart page
+Cart icon would indicate no. of cart items
+
+
+V3
+Show cart picture
+And cart summary
+
+Future
+Once add to cart, button under the item appear as remove item
